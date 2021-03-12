@@ -16,7 +16,7 @@ spec:
       - nome: "Daniel Carneiro"
       - nome: "Ari Neto"
       - nome: "Ericsson Oliveira"
-  - assunto: "k8s facilitado na Oracle Cloud (OKE) com o Synchro Foundation OpenSource" #synchro
+  - assunto: "k8s facilitado na Oracle Cloud (OKE) com o Synchro Foundation" #synchro
     inicio: "10h"
     termino: "11h"
     - palestrante: 
