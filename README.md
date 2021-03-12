@@ -22,10 +22,10 @@ Inscrições Gratuítas: https://promo.thedevelopersconference.com.br/tdcinnovat
       - nome: "Ericsson Oliveira"
 ```
 
-### k8s facilitado na Oracle Cloud (OKE) com o Synchro Foundation OpenSource
+### k8s facilitado na Oracle Cloud (OKE) com o Synchro Foundation
 
 ```
-  - assunto: "k8s facilitado na Oracle Cloud (OKE) com o Synchro Foundation OpenSource" #synchro
+  - assunto: "k8s facilitado na Oracle Cloud (OKE) com o Synchro Foundation" #synchro
     inicio: "10h"
     termino: "11h"
     - palestrante: 
