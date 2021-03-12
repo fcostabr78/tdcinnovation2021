@@ -30,7 +30,7 @@ spec:
     inicio: "12h"
     termino: "12:40h"
     - palestrante: 
-      - nome: "Luiz Fernando"
+      - nome: "Bruno Viscaino"
   - assunto: "Java para Todos - Beneficios do Licenciamento" #oracle
     inicio: "12:40h"
     termino: "13:00h"
